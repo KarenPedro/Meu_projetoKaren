@@ -1,0 +1,50 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    color: #000;
+    
+} 
+
+.navbar a{
+    display: flex;
+    justify-content: space-around;
+    color: #000;
+    font-size: 25px;
+    text-decoration: none;
+    
+} 
+
+a:hover {
+    background-color: chocolate;
+}
+
+.geral{
+    margin-top: 100px;
+    text-align: center;
+
+}
+body {
+    background-color: #FAF0E6
+}
+
+.interesse ul{
+    text-align: start;
+}
+
+.minha_foto {
+    text-align: center;
+    margin: 35px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 5px solid black;
+    filter: drop-shadow(2px 2px 10px gray);
+}
+h1:hover {
+    background-color: chocolate;
+}
+
+
